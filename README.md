@@ -2,6 +2,8 @@
 
 Heló! Köszöntelek a Ticket To Ride társasjáték online megvalósított játékának projektkönyvtárában. Ezt a programot egyetemi tanulmányaim során készítettem el kliensoldali programozási tárgy keretein belül.
 
+Az alkalmazást nem github használata mellett fejlesztettem, a kész alkalmazást importáltam be.
+
 > A játék látványképei megtalálhatók a **"látvány"** mappában.
 
 # Fájlrendszer
@@ -32,6 +34,8 @@ A függőségek telepítését követően, ahhoz hasonlóan, az egyes főkompone
 # Ticket To Ride - english
 
 Hello! Welcome to the project directory of the online version of the Ticket To Ride board game. I created this program as part of my university studies for a client-side programming course.
+
+I didn't develop the application using Github, I imported the finished application.
 
 > The game's visuals can be found in the **"látvány"** folder.
 
