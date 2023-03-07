@@ -1,0 +1,97 @@
+@import url("https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap");
+
+.Connectroom {
+  text-align: center;
+}
+
+.Connectroom-header {
+  background-color: #282c34;
+  background-image: url("../../assets/background.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center center;
+  background-size: cover;
+  color: white;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /* justify-content: center; */
+  font-size: calc(10px + 2vmin);
+}
+
+.Connectroom-panel {
+  flex-direction: row;
+  border: 0.5vh solid black;
+  border-radius: 2vh;
+  background-color: gainsboro;
+  box-shadow: 0 0 32px 16px rgba(0, 0, 0, 0.3),
+    inset 0 0 32px 24px rgba(228, 129, 0, 0.2);
+
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  margin-top: 45vh;
+}
+
+.roomInput {
+  border-radius: 2vh;
+  border: 0.5vh solid black;
+  background-color: gainsboro;
+  width: 100vh;
+  font-family: "Alfa Slab One", cursive;
+  outline: none;
+  margin: 5vh;
+  margin-bottom: 2vh;
+}
+
+.roomInput input {
+  width: 70vh;
+  height: 10vh;
+  font-family: "Alfa Slab One", cursive;
+  font-size: 3vh;
+  background-color: gainsboro;
+  border: none;
+  outline: none;
+  display: inline-block;
+}
+
+.connect-button {
+  background-color: gainsboro;
+  display: inline-block;
+  width: 25vh;
+  padding: 2vh;
+  border: 0.5vh solid black;
+  border-radius: 2vh;
+  margin: 1vh;
+  font-family: "Alfa Slab One", cursive;
+  font-size: 3vh;
+  color: black;
+}
+
+.nameInput {
+  width: 40%;
+  margin-top: 5vh;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: "Alfa Slab One", cursive;
+  color: black;
+
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.nameInput div {
+  margin-bottom: 3vh;
+}
+
+.nameInput input {
+  width: 100%;
+  font-family: "Alfa Slab One", cursive;
+  background-color: gainsboro;
+  outline: none;
+  border: 0.5vh solid black;
+  border-radius: 1vh;
+  padding-left: 1vh;
+}

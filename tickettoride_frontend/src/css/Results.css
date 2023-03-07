@@ -1,0 +1,85 @@
+@import url("https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap");
+
+.tg {
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 80%;
+  text-align: center;
+  font-family: "Alfa Slab One", cursive;
+  border: 0.5vh solid black;
+  font-size: 3vh;
+}
+.tg td {
+  border-color: black;
+  border-style: solid;
+  border-width: 1px;
+  overflow: hidden;
+  padding: 10px 5px;
+  border: 0.5vh solid black;
+  word-break: normal;
+}
+.tg th {
+  border-color: black;
+  border-style: solid;
+  border-width: 1px;
+  border: 0.5vh solid black;
+  font-weight: normal;
+  overflow: hidden;
+  padding: 10px 5px;
+  word-break: normal;
+}
+.tg .tg-0lax {
+  text-align: left;
+  vertical-align: top;
+}
+
+.divTitle {
+  text-align: center;
+  margin-bottom: 5vh;
+  font-size: 5vh;
+}
+
+.panel {
+  border: 0.5vh solid black !important;
+  font-family: "Alfa Slab One", cursive;
+  padding: 5vh;
+  padding-left: 0vh;
+  padding-right: 0vh;
+  width: fit-content !important;
+  box-shadow: 0 0 32px 8px rgba(0, 0, 0, 0.3),
+    inset 0 0 32px 32px rgba(228, 129, 0, 0.2) !important;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.panel > * {
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+.endButton {
+  font-size: 5vh;
+  border: 0.5vh solid black;
+  margin-top: 2vh;
+  text-align: center;
+  width: min-content;
+  margin-top: 2vh;
+  padding: 2vh;
+  cursor: pointer;
+}
+
+.endButton {
+  transition-duration: 0.4s;
+}
+
+.endButton:hover {
+  background-color: green; /* Green */
+  color: white;
+  border-radius: 2vh !important;
+  border-bottom-right-radius: 2vh !important;
+  border-bottom-left-radius: 2vh !important;
+}

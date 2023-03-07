@@ -1,0 +1,1 @@
+export const getDestinations = (state) => state.destinations;

@@ -1,0 +1,1 @@
+export const getTrains = (state) => state.trains;

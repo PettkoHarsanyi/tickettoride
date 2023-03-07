@@ -1,0 +1,140 @@
+@import url("https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap");
+
+.Home {
+  text-align: center;
+}
+
+.Home-header {
+  background-color: #282c34;
+  background-image: url("../assets/background.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center center;
+  background-size: cover;
+  color: white;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /* justify-content: center; */
+  font-size: calc(10px + 2vmin);
+}
+
+.Home-panel {
+  width: 60vh;
+  background-color: gainsboro;
+  border: 0.5vh solid black;
+  border-radius: 2vh;
+  flex-direction: row;
+  box-shadow: 0 0 32px 16px rgba(0, 0, 0, 0.3),
+    inset 0 0 32px 16px rgba(228, 129, 0, 0.2);
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  padding: 5vh 10vh 5vh 10vh;
+  margin-top: 30vh;
+}
+
+.bead2panel{
+  border: 2pt solid black;
+  background-color: gainsboro;
+
+  box-shadow: 0 0 32px 16px rgba(0, 0, 0, 0.3),
+    inset 0 0 32px 16px rgba(228, 129, 0, 0.2);
+  
+  border: 0.5vh solid black;
+  border-radius: 2vh;
+  width: 40vh;
+  height: 20vh;
+  position: absolute;
+  right: 15vh;
+  top:35vh;
+  margin-top: auto;
+  margin-bottom: auto;
+} 
+
+.bead2panel div {
+  
+  font-family: "Alfa Slab One", cursive;
+  color: black;
+  margin-top:2vh;
+}
+
+.bead2button{
+  margin-top: 3vh;
+  border: 0.5vh solid black;
+  font-family: "Alfa Slab One", cursive;
+  color: black;
+  margin-left: auto;
+  margin-right: auto;
+  width:60%;
+  padding: 2vh;
+  text-align: center;
+  box-shadow: 0 8px 16px 0 rgba(228, 129, 0, 0.2),
+    0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  transition-duration: 0.4s;
+}
+
+.bead2button:hover{
+  background-color: green; /* Green */
+  color: white;
+  border-radius: 2vh;
+}
+
+hr{
+  border-top: 0.5vh solid black;
+  width: 80%;
+}
+
+.Home-panel {
+  transition-duration: 0.4s;
+}
+
+.Home-panel:hover {
+  box-shadow: 0 0 32px 8px rgba(0, 0, 0, 0.3),
+    inset 0 0 32px 32px rgba(228, 129, 0, 0.2);
+}
+
+.button {
+  height: 10vh;
+  width: auto;
+  background-color: gainsboro;
+  border: 0.5vh solid black;
+  font-family: "Alfa Slab One", cursive;
+  color: black;
+  font-size: 5vh;
+  text-align: center;
+  display: block;
+  box-shadow: 0 8px 16px 0 rgba(228, 129, 0, 0.2),
+    0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+  margin-bottom: 2vh;
+  padding-left: 2vh;
+  padding-right: 2vh;
+  line-height: 9vh;
+  
+}
+
+.button {
+  transition-duration: 0.4s;
+}
+
+.button:hover {
+  background-color: maroon; /* Green */
+  color: white;
+  font-size: 6vh;
+  border-radius: 2vh;
+}
+
+.button:first-of-type:hover {
+  background-color: green; /* Green */
+  color: white;
+  font-size: 6vh;
+  border-radius: 2vh;
+}

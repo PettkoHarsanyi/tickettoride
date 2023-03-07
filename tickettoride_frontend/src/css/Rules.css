@@ -1,0 +1,59 @@
+@import url("https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap");
+
+.Rules {
+  text-align: center;
+}
+
+.Rules-header {
+  background-color: #282c34;
+  background-image: url("../assets/background.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center center;
+  background-size: cover;
+  color: white;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /* justify-content: center; */
+  font-size: calc(10px + 2vmin);
+}
+
+.Rules-panel {
+  outline: none;
+  background-color: gainsboro;
+  border: 0.5vh solid black;
+  border-radius: 2vh;
+  flex-direction: row;
+  box-shadow: 0 0 32px 16px rgba(0, 0, 0, 0.3),
+    inset 0 0 32px 24px rgba(228, 129, 0, 0.2);
+
+  /* display: flex;
+  flex-direction: column;
+  align-items: center; */
+
+  text-align: left;
+  padding: 5vh 10vh 10vh 10vh;
+  margin-left: 20vh;
+  margin-right: 20vh;
+  margin-top: 35vh;
+  margin-bottom: 10vh;
+  font-family: "Alfa Slab One", cursive;
+  color: black;
+}
+
+.large {
+  font-family: "Alfa Slab One", cursive;
+  color: black;
+  font-size: 5vh;
+}
+
+p:first-of-type {
+  font-size: 10vh;
+  text-align: center;
+}
+
+p {
+  font-size: 3vh;
+}
