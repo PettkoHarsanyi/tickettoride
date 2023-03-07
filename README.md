@@ -10,7 +10,7 @@ Az alkalmazást nem github használata mellett fejlesztettem, a kész alkalmazá
 
 A projekt rendszer két főbb komponensből áll. A legfontosabb része a front-end programot tartalmazó **"tickettoride_frontend"** mappa, a socket logika megvalósítása pedig a **"tickettoride_socket"** útvonal alatt található. Egy harmadik "látvány" mappában a már említett látványképek láthatók.
 
-## Függőségek telepítése
+# Függőségek telepítése
 
 A két komponens npm csomagkezelő rendszert használ, a függőségeiket az **"npm i"** parancs segítségével lehet feltelepíteni, amennyiben valamelyik komponens mappájában állunk.
 
