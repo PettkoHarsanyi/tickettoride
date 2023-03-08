@@ -4,7 +4,7 @@ Heló! Köszöntelek a Ticket To Ride társasjáték online megvalósított ját
 
 Az alkalmazást nem github használata mellett fejlesztettem, a kész alkalmazást importáltam be.
 
-> A játék látványképei megtalálhatók a **"látvány"** mappában.
+> A játék látványképei megtalálhatók a **"látvány"** mappában vagy ezen *markdown* alján.
 
 # Fájlrendszer
 
@@ -63,3 +63,34 @@ Other versions used in the application are:
 After installing the dependencies, similarly, by being in the directory of the corresponding main component, issuing the **"npm start"** command will start the application.
 
 > The React application runs on port 3000 and the Socket application on port 3030 by default.
+
+# Látvány / Visuals 
+
+<p align="center">
+  <img src="látvány/1_latvany.png" />
+</p>
+<p align="center">
+  <img src="látvány/2_latvany.png" />
+</p>
+<p align="center">
+  <img src="látvány/3_latvany.png" />
+</p>
+<p align="center">
+  <img src="látvány/4_latvany.png" />
+</p>
+<p align="center">
+  <img src="látvány/5_latvany.png" />
+</p>
+<p align="center">
+  <img src="látvány/6_latvany.png" />
+</p>
+<p align="center">
+  <img src="látvány/7_latvany.png" />
+</p>
+<p align="center">
+  <img src="látvány/8_latvany.png" />
+</p>
+<p align="center">
+  <img src="látvány/9_latvany.png" />
+</p>
+
