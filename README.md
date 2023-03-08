@@ -1,5 +1,7 @@
 ﻿# Ticket To Ride - magyar
 
+English version [below](#ticket-to-ride---english).
+
 Heló! Köszöntelek a Ticket To Ride társasjáték online megvalósított játékának projektkönyvtárában. Ezt a programot egyetemi tanulmányaim során készítettem el kliensoldali programozási tárgy keretein belül.
 
 Az alkalmazást nem github használata mellett fejlesztettem, a kész alkalmazást importáltam be.
@@ -64,7 +66,7 @@ After installing the dependencies, similarly, by being in the directory of the c
 
 > The React application runs on port 3000 and the Socket application on port 3030 by default.
 
-# Látvány / Visuals 
+# Látvány | Visuals 
 
 <p align="center">
   <img src="látvány/1_latvany.png" />
