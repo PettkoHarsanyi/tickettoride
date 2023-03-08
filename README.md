@@ -4,7 +4,7 @@ Heló! Köszöntelek a Ticket To Ride társasjáték online megvalósított ját
 
 Az alkalmazást nem github használata mellett fejlesztettem, a kész alkalmazást importáltam be.
 
-> A játék látványképei megtalálhatók a **"látvány"** mappában vagy ezen *markdown* alján.
+> A játék látványképei megtalálhatók a **"látvány"** mappában vagy ezen *markdown* alján: [klikk](#látvány--visuals).
 
 # Fájlrendszer
 
@@ -37,7 +37,7 @@ Hello! Welcome to the project directory of the online version of the Ticket To R
 
 I didn't develop the application using Github, I imported the finished application.
 
-> The game's visuals can be found in the **"látvány"** folder.
+> The game's visuals can be found in the **"látvány"** folder or at the bottom of this *markdown*: [click](#látvány--visuals).
 
 # Project directory
 
@@ -85,12 +85,12 @@ After installing the dependencies, similarly, by being in the directory of the c
   <img src="látvány/6_latvany.png" />
 </p>
 <p align="center">
-  <img src="látvány/7_latvany.png" />
+  <img src="látvány/7_latvany.PNG" />
 </p>
 <p align="center">
-  <img src="látvány/8_latvany.png" />
+  <img src="látvány/8_latvany.PNG" />
 </p>
 <p align="center">
-  <img src="látvány/9_latvany.png" />
+  <img src="látvány/9_latvany.PNG" />
 </p>
 
